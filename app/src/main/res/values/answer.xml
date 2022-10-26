@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer">
+        <item>Lamborghini</item>
+        <item>Porsche</item>
+        <item>Ferrari</item>
+        <item>Bmw</item>
+        <item>Audi</item>
+        <item>Mercedes</item>
+    </string-array>
+</resources>

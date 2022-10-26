@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.MainActivity">
+    <item
+        android:id="@+id/New"
+        android:orderInCategory="1"
+        android:title="@string/New"
+        android:icon="@drawable/ic_baseline_beach_access_24"/>
+    <item
+        android:id="@+id/Exit"
+        android:orderInCategory="2"
+        android:title="@string/Exit"/>
+
+</menu>
